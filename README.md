@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏾 I'm Nerivaldo Neri</h1>
 <h3 align="center">A gaming enthusiast on the road to becoming one!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nericosta&label=Profile%20views&color=5405a3&style=flat" alt="nericosta" /> </p>
-
 - 📚 I’m currently learning **JavaScript, PHP, MySQL, C#**
 
 - 📫 How to reach me **contatoneri00@gmail.com**
