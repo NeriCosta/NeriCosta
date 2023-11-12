@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **JavaScript, PHP, MySQL, C#**
 
-- 📫 How to reach me **contatoneri0@gmail.com**
+- 📫 How to reach me **contatoneri00@gmail.com**
 
 - ⚡ Fun fact **I think i'm very communicative**
 
