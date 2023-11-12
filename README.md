@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏾 I'm Nerivaldo Neri</h1>
 <h3 align="center">A gaming enthusiast on the road to becoming one!!</h3>
 
+
 - 📚 I’m currently learning **JavaScript, PHP, MySQL, C#**
 
 - 📫 How to reach me **contatoneri00@gmail.com**
