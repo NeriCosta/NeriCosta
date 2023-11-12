@@ -1,9 +1,10 @@
-<h1 align="center">Hello World 👋🏾 I'm Nerivaldo Neri</h1>
-<h3 align="center">A gaming enthusiast on the road to becoming one developer!!</h3>
+<h1 align="center">Hello World 👋🏾 </h1>
+
+- 👨🏾‍🎓 I'm Neri, **a games enthusiast on the journey to becoming a developer**!!!
 
 - 📚 I’m currently learning **JavaScript, PHP, MySQL**
 
-- 🔭 I'm looking for my first job opportunity. My dream is to one day work in game development**
+- 🔭 I'm looking for my first job opportunity. **My dream is to one day work in game development**
 
 - 📫 How to reach me **contatoneri00@gmail.com**
 
