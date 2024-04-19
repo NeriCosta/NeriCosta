@@ -9,7 +9,7 @@
   
   - 👨🏾‍🎓 I'm Neri, **a games enthusiast on the journey to becoming a developer**!!!
   
-  - 📚 I’m currently learning **JavaScript, PHP, MySQL**
+  - 📚 I’m currently learning **JavaScript, Python, MySQL**
   
   -  🔭 I'm looking for my first job opportunity. **My dream is to one day work in game development**
   
