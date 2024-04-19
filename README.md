@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-- I currently live in Brazil, love technology and I'm studying systems development with the ultimate goal of developing games. I'm very communicative and love working as part of a team, solving problems and creating projects. but I'm passionate about languages and culture and I want to learn and improve more and more.
+- I currently live in Brazil, love technology and I'm studying systems development with the ultimate goal of developing games. I'm very communicative and love working as part of a team, solving problems and creating projects. I have a basic knowledge of English A1/A2, but I'm passionate about languages and cultures and I want to learn and improve more and more.
 
 - ⚡ I enjoy reading, whether it's a good book, manga, or comics and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. ^_^
 </details>
